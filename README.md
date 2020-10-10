@@ -1,1 +1,1 @@
-
+ Bitirme tezim kapsamında veri madenciliği algoritmaları kullarak film önerme sistemi tasarladım. Bitirme tezim; IMDB API kullanarak elde ettiğim filmlerin bulunduğu veri setinde kullanıcının izlediği veya filtrelemek istediği filmin ismine, türüne, yönetmenine ve oyuncularına göre kullanıcıya kendisine en uygun olan filmi veri seti içerisinden önermeyi amaçlar.
